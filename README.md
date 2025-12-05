@@ -56,8 +56,8 @@ Project developed by:
 
 *(Fill this section with the actual technologies used in the code — e.g., Java, Java Swing/JavaFX, etc. Based on the interface style, it seems to be Java Swing.)*
 
-* Language: **[Insert Language]**
-* Graphical Interface: **[Insert UI Library]**
+* Language: Python
+* Graphical Interface: Tkinter
 
 ## 📸 Screenshots
 
